@@ -13,7 +13,7 @@ namespace Telefon_Szolgáltatás
         public string elérhetőség { get; set; }
         public override string ÜgyfélKarbantartás()
         {
-            return "kutya";
+            return "kutyaaa";
         }
         public string SzámlaLétrehozás()
         {
