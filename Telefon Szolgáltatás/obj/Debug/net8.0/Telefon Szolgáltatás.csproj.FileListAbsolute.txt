@@ -1,0 +1,15 @@
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\obj\Debug\net8.0\Telefon Szolgáltatás.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\obj\Debug\net8.0\Telefon Szolgáltatás.AssemblyInfoInputs.cache
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\obj\Debug\net8.0\Telefon Szolgáltatás.AssemblyInfo.cs
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\obj\Debug\net8.0\Telefon Szolgáltatás.csproj.CoreCompileInputs.cache
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\obj\Debug\net8.0\Telefon Szolgáltatás.sourcelink.json
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\bin\Debug\net8.0\Telefon Szolgáltatás.exe
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\bin\Debug\net8.0\Telefon Szolgáltatás.deps.json
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\bin\Debug\net8.0\Telefon Szolgáltatás.runtimeconfig.json
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\bin\Debug\net8.0\Telefon Szolgáltatás.dll
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\bin\Debug\net8.0\Telefon Szolgáltatás.pdb
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\obj\Debug\net8.0\Telefon Szolgáltatás.dll
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\obj\Debug\net8.0\refint\Telefon Szolgáltatás.dll
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\obj\Debug\net8.0\Telefon Szolgáltatás.pdb
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\obj\Debug\net8.0\Telefon Szolgáltatás.genruntimeconfig.cache
+D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\obj\Debug\net8.0\ref\Telefon Szolgáltatás.dll

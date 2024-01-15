@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cfeladatok\\Telefon Szolgáltatás\\Telefon Szolgáltatás\\Telefon Szolgáltatás.csproj": {}
+    "D:\\Repositorys\\CellularServiceV4\\Telefon Szolgáltatás\\Telefon Szolgáltatás.csproj": {}
   },
   "projects": {
-    "D:\\cfeladatok\\Telefon Szolgáltatás\\Telefon Szolgáltatás\\Telefon Szolgáltatás.csproj": {
+    "D:\\Repositorys\\CellularServiceV4\\Telefon Szolgáltatás\\Telefon Szolgáltatás.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cfeladatok\\Telefon Szolgáltatás\\Telefon Szolgáltatás\\Telefon Szolgáltatás.csproj",
+        "projectUniqueName": "D:\\Repositorys\\CellularServiceV4\\Telefon Szolgáltatás\\Telefon Szolgáltatás.csproj",
         "projectName": "Telefon Szolgáltatás",
-        "projectPath": "D:\\cfeladatok\\Telefon Szolgáltatás\\Telefon Szolgáltatás\\Telefon Szolgáltatás.csproj",
+        "projectPath": "D:\\Repositorys\\CellularServiceV4\\Telefon Szolgáltatás\\Telefon Szolgáltatás.csproj",
         "packagesPath": "C:\\Users\\KENYÉRPIRÍTÓ\\.nuget\\packages\\",
-        "outputPath": "D:\\cfeladatok\\Telefon Szolgáltatás\\Telefon Szolgáltatás\\obj\\",
+        "outputPath": "D:\\Repositorys\\CellularServiceV4\\Telefon Szolgáltatás\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8,16 +8,34 @@ namespace Telefon_Szolgáltatás
 {
     internal class Számla
     {
-        public string számlaFejléc { get; set; }
-        public string számlaSorok { get; set; }
+        public int azonosító { get; set; }
+
+        public Ügyfél ügyfél { get; set; }
+
+        public DateTime dátum = DateTime.Now;
+        public bool befizetve { get; set; }
+        public int összeg { get; set; }
+
+        public bool sztornó = false;
+
+
+        public List<SzámlaTételek> tételLista { get; set; }
+
+        public Számla(int azonosító, Ügyfél ügyfél, int összeg, bool befizetve)
+        {
+            this.azonosító = azonosító;
+            this.ügyfél = ügyfél;
+            this.összeg = összeg;
+            this.befizetve = befizetve;
+        }
 
         public string SzámlaNyomtatás()
         {
             return "kutya";
         }
-        public string SztornóSzámla()
+        public void SztornóSzámla()
         {
-            return "kutya";
+            sztornó = true;
         }
     }
 }

@@ -8,11 +8,24 @@ namespace Telefon_Szolgáltatás
 {
     internal class Ügyfél
     {
-        public string ügyfélAdatok { get; set; }
-        public string kapcsolattartó { get; set; }
-        public string kifizetettSzámlák { get; set; }
-        public string számlaTartozás { get; set; }
-       
+        public int azonosító { get; set; }
+        public string név { get; set; }
+        public string telefon { get; set; }
+        public string cím { get; set; }
+        public Beosztott kapcsolattartó { get; set; }
+        public Ügyfél(int azonosító, string név, string telefon, string cím, Beosztott kapcsolattartó)
+        {
+            this.azonosító = azonosító;
+            this.név = név;
+            this.cím = cím;
+            this.telefon = telefon;
+            this.kapcsolattartó = kapcsolattartó; 
+        }
+
+        public Ügyfél()
+        {
+        }
+
         public string BeszélgetésNyilvántartása()
         {
             return "kutya";

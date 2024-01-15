@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Telefon_Szolgáltatás
-build_property.ProjectDir = D:\cfeladatok\Telefon Szolgáltatás\Telefon Szolgáltatás\
+build_property.ProjectDir = D:\Repositorys\CellularServiceV4\Telefon Szolgáltatás\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
