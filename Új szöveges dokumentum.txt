@@ -1,2 +1,0 @@
-  public Főnök főnök { get; set; }
-  public List<Beosztott> beosztottakLista { get; set; }
